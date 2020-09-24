@@ -39,7 +39,7 @@ int main(){
     }
     //Выводим результат работы в наш файл.
     ofstream out;
-    out.open(path, std::ios_base::app );
+    out.open(path);
     for (int i = 0; i < library.size(); ++i) {
         for (int j = 0; j < library[i].size(); ++j) {
             out << library[i][j] << '\t';
