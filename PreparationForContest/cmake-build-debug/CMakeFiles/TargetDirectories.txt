@@ -1,0 +1,3 @@
+/Users/semenkondakov/CLionProjects/PreparationForContest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/semenkondakov/CLionProjects/PreparationForContest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/semenkondakov/CLionProjects/PreparationForContest/cmake-build-debug/CMakeFiles/PreparationForContest.dir
